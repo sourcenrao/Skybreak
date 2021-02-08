@@ -91,11 +91,10 @@
     <Compile Include="Assets\Rotary Heart\SerializableDictionaryLite\References\RequiredReferences.cs" />
     <Compile Include="Assets\Rotary Heart\SerializableDictionaryLite\ReorderableList\ReorderableList.cs" />
     <Compile Include="Assets\Rotary Heart\SerializableDictionaryLite\SerializableDictionaryBase.cs" />
-    <Compile Include="Assets\Scripts\Cards\Attack.cs" />
-    <Compile Include="Assets\Scripts\Cards\Card.cs" />
+    <Compile Include="Assets\Scripts\Cards\AttackData.cs" />
+    <Compile Include="Assets\Scripts\Cards\CardData.cs" />
     <Compile Include="Assets\Scripts\Cards\CardList.cs" />
     <Compile Include="Assets\Scripts\Cards\CreateCardList.cs" />
-    <Compile Include="Assets\Scripts\Cards\Spell.cs" />
     <Compile Include="Assets\ShaderWeaver\Examples\Projects\_Scripts\Bloom\ExampleBloom.cs" />
     <Compile Include="Assets\ShaderWeaver\Examples\Projects\_Scripts\Bloom\ExampleEffectsBase.cs" />
     <Compile Include="Assets\ShaderWeaver\Examples\Projects\_Scripts\Robot.cs" />

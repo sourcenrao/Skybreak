@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class CardList : MonoBehaviour
 {
-    public static List<Card> cardList = new List<Card>();
+    public static List<CardData> cardList = new List<CardData>();
 
 }
